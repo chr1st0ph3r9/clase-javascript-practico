@@ -1,24 +1,28 @@
 #Heading{
     color: antiquewhite;
-    background-color: greenyellow;
-    border-radius: 50%;
+    background-color: rgba(9, 118, 168, 0.685);
+    border-radius: 5%;
     text-align: center;
     text-size-adjust: 40;
+    font-size: large;
+    font-family: 'Lucida Sans';
 
 
 }
 
 #Content{
     text-align-last: center;
-    border-color: blanchedalmond;
+    border-color: rgba(1, 1, 2, 0.986);
     border-width: 2cm;
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
+    font-size: 20%;
 }
 
 #Footer{
     border-image-width: 40%;
     box-shadow: inset;
+    image-resolution: 300;
 }
 
 
