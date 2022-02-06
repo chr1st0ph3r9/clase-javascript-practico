@@ -1,0 +1,24 @@
+#Header{
+    color: antiquewhite;
+    background-color: greenyellow;
+    border-radius: 50%;
+    text-align: center;
+    text-size-adjust: 40;
+
+
+}
+
+#Content{
+    text-align-last: center;
+    border-color: blanchedalmond;
+    border-width: 2cm;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+
+#Footer{
+    border-image-width: 40%;
+    box-shadow: inset;
+}
+
+
