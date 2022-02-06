@@ -1,12 +1,12 @@
 #Heading{
     color: antiquewhite;
-    background-color: rgba(9, 118, 168, 0.685);
-    border-radius: 5%;
+    background-color: rgb(7, 69, 97);
     text-align: center;
-    text-size-adjust: 40;
     font-size: large;
     font-family: 'Lucida Sans';
+    font-size: 2cm;
 
+    
 
 }
 
@@ -15,14 +15,13 @@
     border-color: rgba(1, 1, 2, 0.986);
     border-width: 2cm;
     font-family: 'Courier New', Courier, monospace;
-    font-size: larger;
-    font-size: 20%;
-}
+    font-size: 0.9cm;
+    
+    }
 
 #Footer{
-    border-image-width: 40%;
-    box-shadow: inset;
-    image-resolution: 300;
+    width: 10%;
+   
 }
 
 
