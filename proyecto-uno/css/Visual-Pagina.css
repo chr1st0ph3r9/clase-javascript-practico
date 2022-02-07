@@ -4,7 +4,7 @@
     text-align: center;
     font-size: large;
     font-family: 'Lucida Sans';
-    font-size: 2cm;
+    font-size: 6cm;
 
     
 
@@ -13,7 +13,7 @@
 #Content{
     text-align-last: center;
     border-color: rgba(1, 1, 2, 0.986);
-    border-width: 2cm;
+    border-width: 1cm;
     font-family: 'Courier New', Courier, monospace;
     font-size: 0.9cm;
     
