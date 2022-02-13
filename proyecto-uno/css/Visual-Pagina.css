@@ -1,5 +1,5 @@
 #Heading{
-    color: rgba(205, 214, 255, 0.664);
+    color: rgba(88, 255, 191, 0.664);
     background-color: rgba(0, 73, 107, 0.808);
     text-align: center;
     font-size: large;
@@ -12,7 +12,7 @@
 
 #Content{
     text-align-last: center;
-    border-color: rgba(1, 1, 2, 0.986);
+    border-color: rgb(255, 255, 255);
     border-width: 1cm;
     font-family: 'Courier New', Courier, monospace;
     font-size: 0.9cm;
@@ -29,5 +29,5 @@
 }
 
 body{
-    background-color: antiquewhite;
+    background-color: rgb(25, 74, 75);
 }
