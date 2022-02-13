@@ -12,7 +12,7 @@
 
 #Content{
     text-align-last: center;
-    border-color: rgba(1, 1, 2, 0.986);
+    border-color: rgba(255, 255, 255, 0.986);
     border-width: 1cm;
     font-family: 'Courier New', Courier, monospace;
     font-size: 0.9cm;
@@ -29,5 +29,5 @@
 }
 
 body{
-    background-color: antiquewhite;
+    background-color: rgb(0, 44, 109);
 }
