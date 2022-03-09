@@ -9,6 +9,13 @@
     
 
 }
+#titulo{
+    text-align: center;
+}
+
+#content{
+    text-align: center;
+}
 
 #Content{
     text-align-last: center;
@@ -34,4 +41,7 @@ body{
 
     background-color: rgb(25, 74, 75);
 
+}
+label{
+    color: azure;
 }
