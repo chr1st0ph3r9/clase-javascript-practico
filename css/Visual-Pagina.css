@@ -1,0 +1,47 @@
+#Heading{
+    color: rgba(88, 255, 191, 0.664);
+    background-color: rgba(0, 73, 107, 0.808);
+    text-align: center;
+    font-size: large;
+    font-family: 'Lucida Sans';
+    font-size: 3cm;
+
+    
+
+}
+#titulo{
+    text-align: center;
+}
+
+#content{
+    text-align: center;
+}
+
+#Content{
+    text-align-last: center;
+
+    border-color: rgb(255, 255, 255);
+
+    border-width: 1cm;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9cm;
+    
+    
+    }
+
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+   
+}
+
+body{
+
+    background-color: rgb(25, 74, 75);
+
+}
+label{
+    color: azure;
+}
